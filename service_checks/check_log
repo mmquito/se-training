@@ -1,0 +1,3 @@
+#!/bin/bash
+read file
+tail -n -1 $file
